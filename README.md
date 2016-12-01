@@ -15,5 +15,6 @@ Current Pre-req:
                             }
                         ]
                     }
-    2c) In the Secondary account where you want this script to execute, create a cross-account role and allow the Primary             Account number to access. Also, give it access to TA (I gave it admin rights for now).
+                    
+  2c) In the Secondary account where you want this script to execute, create a cross-account role and allow the Primary             Account number to access. Also, give it access to TA (I gave it admin rights for now).
     
