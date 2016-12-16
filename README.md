@@ -1,9 +1,8 @@
 #Current Pre-req:
 
-1. Run this locally. Subsequent versions will be for Lambda.
+1. Create Environment Variables Role_Name (name of the role to assume) and Account_Number (AWS Account Number to assume the role from)
 2. IAM Steps:
-  1. Create IAM user and configure local cli to use it
-  2. Give IAM user the following permission:
+  1. Give Lambda role the following permission:
   
       ```json
       {
